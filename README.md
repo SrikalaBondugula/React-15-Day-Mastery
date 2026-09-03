@@ -42,7 +42,7 @@ By the end of these 15 days, I aim to understand and work with:
 
 | Day    | Topics                                           | Project / Practice                 | Status |
 | ------ | ------------------------------------------------ | ---------------------------------- | ------ |
-| Day 01 | React Fundamentals, Vite, JSX                    | React Starter App                  | ⬜      |
+| Day 01 | React Fundamentals, Vite, JSX                    | React Starter App                  | ☑️      |
 | Day 02 | Components & Props                               | Student Dashboard                  | ⬜      |
 | Day 03 | Lists, Keys, Conditional Rendering & Events      | Todo Application                   | ⬜      |
 | Day 04 | `useState` & State Management                    | Shopping Cart                      | ⬜      |

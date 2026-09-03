@@ -1,0 +1,50 @@
+.maindiv{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    border: 2px solid black;
+    margin:auto
+}
+.ProfileImage{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+#name{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#role{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#skills{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    display: flex;
+    flex-direction: row;
+}
+#skills tr{
+    font-size: medium;
+    color: rgb(28, 169, 194);
+}
+#location{
+    color: rgb(0, 21, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#mail{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#btn{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
