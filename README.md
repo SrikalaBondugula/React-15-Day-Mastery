@@ -40,11 +40,11 @@ By the end of these 15 days, I aim to understand and work with:
 
 ## 🗓️ 15-Day Learning Roadmap
 
-| Day    | Topics                                           | Project / Practice                 | Status |
-| ------ | ------------------------------------------------ | ---------------------------------- | ------ |
+| Day    | Topics                                           | Project / Practice                 | Status  |
+| ------ | ------------------------------------------------ | ---------------------------------- | ------  |
 | Day 01 | React Fundamentals, Vite, JSX                    | React Starter App                  | ☑️      |
-| Day 02 | Components & Props                               | Student Dashboard                  | ⬜      |
-| Day 03 | Lists, Keys, Conditional Rendering & Events      | Todo Application                   | ⬜      |
+| Day 02 | Components & Props                               | Student Dashboard                  | ☑️      |
+| Day 03 | Lists, Keys, Conditional Rendering & Events      | Todo Application                   | ☑️      |
 | Day 04 | `useState` & State Management                    | Shopping Cart                      | ⬜      |
 | Day 05 | Forms & Form Validation                          | Registration Form                  | ⬜      |
 | Day 06 | `useEffect` & Side Effects                       | API User Dashboard                 | ⬜      |

@@ -4,12 +4,14 @@ import Studentdashboard from "./Day02/Studentdashboard";
 import Studentprofile from "./Day02/StudentProfile";
 import Skills from "./Day02/skills";
 import "./App.css"
+import PractiseRender from './Day03/ToDo';
 function App(){
+ 
   return <div id='maindiv'>
   {/*    <ProfileCard></ProfileCard> */}
-       <div id='std'> <Studentdashboard name="Srikala"></Studentdashboard> </div>
-       <div id='skills'><Skills></Skills> </div> 
-        
+       {/* <div id='std'> <Studentdashboard name="Srikala"></Studentdashboard> </div>
+       <div id='skills'><Skills></Skills> </div>  */}
+     <PractiseRender/>
     </div>
 }
 export default App
