@@ -1,0 +1,70 @@
+#catelog-display{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+}
+#each-catelog{
+    border: 1px solid rgb(234, 230, 230);
+    box-shadow: 0px 0px 5px 4px rgb(234, 230, 230) ;
+    border-radius: 10px;
+    margin: 5px;
+    height: 300px;
+    width: 200px;
+    padding: 10px;
+}
+#each-catelog img{
+height: 150px;
+width: 150px;
+}
+#each-catelog button{
+    background-color:blue;
+    color: white;
+    border-radius: 5px;
+}
+#cart-display{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#cart-product{
+    display:flex;
+    border: 1px solid rgb(234, 230, 230);
+    box-shadow: 0px 0px 5px 4px rgb(234, 230, 230) ;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    height: fit-content;
+    width: 500px;
+}
+#product-img img{
+    height: 100px;
+    width: 100px;
+
+}
+#inc-quantity-dec{
+    display: flex;
+    margin: 2px;
+    width: 100px;
+    justify-content: space-around;
+}
+#increase{
+    
+    padding: 3px;
+    width: 15px;
+}
+#decrease{
+   
+    padding: 3px;
+    width: 15px;
+}
+#quantity{
+    border: 1px solid rgb(253, 252, 252);
+    padding: 3px;
+    width: 15px;
+}
+#removebtn-price{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
