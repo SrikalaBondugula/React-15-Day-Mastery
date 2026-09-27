@@ -6,6 +6,7 @@ import Skills from "./Day02/skills";
 import "./App.css"
 import PractiseRender from './Day03/ToDo';
 import ShoppingCart from './Day04/shoppingCart'
+import Forms from './Day05/forms'
 function App(){
  
   return <div id='maindiv'>
@@ -13,7 +14,8 @@ function App(){
              {/* <div id='std'> <Studentdashboard name="Srikala"></Studentdashboard> </div>
                     <div id='skills'><Skills></Skills> </div>  */}
              {/*<PractiseRender/>*/}
-             <ShoppingCart/> 
+             {/* <ShoppingCart/> */}
+             <Forms/> 
 
         </div>
 }

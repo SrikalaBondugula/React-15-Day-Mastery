@@ -1,0 +1,39 @@
+
+form {
+    width: 500px;
+    color: black;
+    font-weight: bold;
+}
+
+form > div {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    margin-bottom: 15px;
+    align-items: center;
+}
+form > div > p {
+    grid-column: 2;
+    margin: 5px 0 0;
+    color:red;
+}
+
+form > div > label:first-child {
+    grid-column: 1;
+}
+
+form > div > input,
+form > div > select,
+form > div > textarea {
+    grid-column: 2;
+}
+
+input,
+select,
+textarea {
+    padding: 6px;
+}
+
+textarea {
+    height: 80px;
+}
+
