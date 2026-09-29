@@ -47,8 +47,8 @@ By the end of these 15 days, I aim to understand and work with:
 | Day 03 | Lists, Keys, Conditional Rendering & Events      | Todo Application                   | ☑️      |
 | Day 04 | `useState` & State Management                    | Shopping Cart                      | ☑️      |
 | Day 05 | Forms & Form Validation                          | Registration Form                  | ☑️      |
-| Day 06 | `useEffect` & Side Effects                       | API User Dashboard                 | ⬜      |
-| Day 07 | `useRef`, `useMemo`, `useCallback`, `useReducer` | Product Filter                     | ⬜      |
+| Day 06 | `useEffect` & Side Effects                       | API User Dashboard                 | ☑️      |
+| Day 07 | `useRef`, `useMemo`, `useCallback`, `useReducer` | Product Filter                     | ☑️      |
 | Day 08 | Component Communication & Custom Hooks           | Temperature Converter + `useFetch` | ⬜      |
 | Day 09 | Context API                                      | Theme & Language Switcher          | ⬜      |
 | Day 10 | React Router                                     | Multi-Page Application             | ⬜      |

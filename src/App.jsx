@@ -9,6 +9,7 @@ import ShoppingCart from './Day04/shoppingCart'
 import Forms from './Day05/forms'
 import UseEffect from './Day06/UseEffect';
 import {useState} from "react";
+import Hooks from "./Day07/hooks"
 function App(){
   return <div id='maindiv'>
              {/*    <ProfileCard></ProfileCard> */}
@@ -17,7 +18,9 @@ function App(){
              {/*<PractiseRender/>*/}
              {/* <ShoppingCart/> */}
             {/*  <Forms/>  */}
-             <UseEffect />
+            {/*  <UseEffect /> */}
+            <Hooks/>
+            
             
 
         </div>
