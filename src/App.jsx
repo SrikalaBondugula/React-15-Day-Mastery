@@ -10,8 +10,10 @@ import Forms from './Day05/forms'
 import UseEffect from './Day06/UseEffect';
 import {useState} from "react";
 import Hooks from "./Day07/hooks"
+import Counter from "./Day08/TemperatureConverter"
 function App(){
   return <div id='maindiv'>
+     
              {/*    <ProfileCard></ProfileCard> */}
              {/* <div id='std'> <Studentdashboard name="Srikala"></Studentdashboard> </div>
                     <div id='skills'><Skills></Skills> </div>  */}
@@ -19,7 +21,9 @@ function App(){
              {/* <ShoppingCart/> */}
             {/*  <Forms/>  */}
             {/*  <UseEffect /> */}
-            <Hooks/>
+            {/* <Hooks/> */}
+            <Counter/>
+            
             
             
 

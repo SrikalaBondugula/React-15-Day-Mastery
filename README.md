@@ -49,7 +49,7 @@ By the end of these 15 days, I aim to understand and work with:
 | Day 05 | Forms & Form Validation                          | Registration Form                  | ☑️      |
 | Day 06 | `useEffect` & Side Effects                       | API User Dashboard                 | ☑️      |
 | Day 07 | `useRef`, `useMemo`, `useCallback`, `useReducer` | Product Filter                     | ☑️      |
-| Day 08 | Component Communication & Custom Hooks           | Temperature Converter + `useFetch` | ⬜      |
+| Day 08 | Component Communication & Custom Hooks           | Temperature Converter + customHook | ☑️      |
 | Day 09 | Context API                                      | Theme & Language Switcher          | ⬜      |
 | Day 10 | React Router                                     | Multi-Page Application             | ⬜      |
 | Day 11 | REST APIs & Axios                                | Student CRUD                       | ⬜      |
