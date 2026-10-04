@@ -11,6 +11,7 @@ import UseEffect from './Day06/UseEffect';
 import {useState} from "react";
 import Hooks from "./Day07/hooks"
 import Counter from "./Day08/TemperatureConverter"
+import ContextTask from './Day09/context';
 function App(){
   return <div id='maindiv'>
      
@@ -22,7 +23,9 @@ function App(){
             {/*  <Forms/>  */}
             {/*  <UseEffect /> */}
             {/* <Hooks/> */}
-            <Counter/>
+            {/* <Counter/> */}
+            <ContextTask/> 
+
             
             
             
