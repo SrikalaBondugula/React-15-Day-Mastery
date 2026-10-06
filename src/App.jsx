@@ -12,6 +12,7 @@ import {useState} from "react";
 import Hooks from "./Day07/hooks"
 import Counter from "./Day08/TemperatureConverter"
 import ContextTask from './Day09/context';
+import Main from './Day10/Routers';
 function App(){
   return <div id='maindiv'>
      
@@ -24,7 +25,8 @@ function App(){
             {/*  <UseEffect /> */}
             {/* <Hooks/> */}
             {/* <Counter/> */}
-            <ContextTask/> 
+            {/* <ContextTask/>  */}
+            <Main/>
 
             
             
